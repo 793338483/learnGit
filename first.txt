@@ -1,4 +1,0 @@
-git is a version control tool,I am learning it;
-
-the second modified;
-ddddd
