@@ -1,2 +1,0 @@
-git is a version control software.
-something has been change.
